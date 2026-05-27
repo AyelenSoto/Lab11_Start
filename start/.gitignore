@@ -1,0 +1,14 @@
+# Firebase
+app/google-services.json
+
+# Android Studio
+.idea/
+.gradle/
+local.properties
+
+# Build
+/build
+/app/build
+
+# Logs
+*.log
